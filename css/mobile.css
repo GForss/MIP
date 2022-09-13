@@ -48,4 +48,12 @@
         flex-direction: column;
         align-items: flex-end;
     }
+    .stain {
+        width: 400px;
+        height: 400px;
+    }
+    .photo {
+        margin-top: 10px;
+        height: 400px;
+    }
 }
