@@ -1,0 +1,51 @@
+@media (max-width: 710px) {
+    .abouts {
+        width: 90%;
+    }
+    .goals  {
+        font-size: 20px;
+        width: 90%;
+        margin-top: 10px;
+    }
+    .text_about {
+        font-size: 20px;
+    }
+    .projectik {
+        font-size: 20px;
+        width: 90%;
+        margin-top: 10px;
+    }
+    .text_goal {
+        flex-wrap: wrap;
+    }
+    .text_project {
+        flex-wrap: wrap;
+    }
+    .table {
+        flex-wrap: wrap;
+    }
+    .one {
+        width: 40%;
+        min-height: 220px;
+    }
+    footer {
+        flex-direction: column-reverse;
+    }
+    .contacts {
+        font-size: 30px;
+    }
+    .copyright_contacts {
+        font-size: 15px;
+    }
+    .center {
+        display: flex;
+        align-items: center;
+    }
+    .title {
+        font-size: 13px;
+    }
+    .menu_list {
+        flex-direction: column;
+        align-items: flex-end;
+    }
+}
