@@ -1,6 +1,8 @@
 @media (max-width: 710px) {
     .abouts {
         width: 90%;
+        flex-direction: column;
+        align-items: center;
     }
     .goals  {
         font-size: 20px;
