@@ -56,4 +56,10 @@
         margin-top: 10px;
         height: 400px;
     }
+    h1 {
+        font-size: 20px;
+    }
+    iframe {
+        width: 450px;
+    }
 }
