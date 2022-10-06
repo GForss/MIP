@@ -26,11 +26,23 @@ body {
     font-family: NasalizationRg-Regular;
     background-image: url(../img/fon\ blue\ верт\ проз1.png)
 }
+.logo {
+    z-index: 1;
+    position: relative;
+}
+.asou {
+    width: 200px;
+}
+.menu {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 1%;
+}
 .menu_list {
     list-style-type: none;
     font-size: 35px;
     color: #fff;
-    font-family: Arial, Helvetica, sans-serif;
+    /**font-family: Arial, Helvetica, sans-serif;**/
     font-weight: bold;
     display: flex;
     justify-content: flex-end;
@@ -95,6 +107,7 @@ h2 {
     width: 75%;
     color: #000000;
     font-weight: bold;
+    font-family: georgia;
 }
 .decoration_about {
     margin: 10px;
@@ -115,6 +128,7 @@ h2 {
     font-size: 30px;
     width: 75%;
     display: flex;
+    font-family: georgia;
 }
 .align-items {
     display: flex;
@@ -176,16 +190,19 @@ a {
 }
 .text_project {
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
 }
 .projectik {
     color: #fff;
     margin-left: 10px;
-    width: 22%;
+    width: 45%;
+    margin-top: 10px;
     min-height: 300px;
     font-size: 30px;
     background-image: url(../img/blue.jpg);
     border: 5px solid #eb7d3b;
+    font-family: georgia;
 }
 .decoration_project {
     margin: 10px;

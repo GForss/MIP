@@ -31,4 +31,11 @@
     h1 {
         font-size: 25px;
     }
+    .menu {
+        flex-direction: column;
+    }
+    .logo {
+        display: flex;
+        justify-content: space-around;
+    }
 }
