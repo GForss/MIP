@@ -24,7 +24,8 @@ body {
     margin: 0;
     padding: 0;
     font-family: NasalizationRg-Regular;
-    background-image: url(../img/fon\ blue\ верт\ проз1.png)
+    background-image: url(../img/4444.png);
+    background-size: 100%;
 }
 .logo {
     z-index: 1;
@@ -92,7 +93,7 @@ h2 {
     font-size: 40px;
 }
 .border {
-    border-bottom: 3px solid #1d3252;
+    border-bottom: 3px solid #eb7d3b;
     margin: 5px 45%;
 }
 .text_about {
@@ -105,9 +106,9 @@ h2 {
     display: flex;
     margin: 20px;
     width: 75%;
-    color: #000000;
+    color: #ffffff;
     font-weight: bold;
-    font-family: georgia;
+    font-family: Lucida Sans Unicode;
 }
 .decoration_about {
     margin: 10px;
@@ -122,13 +123,13 @@ h2 {
     justify-content: center;
 }
 .goals {
-    color: #000000;
+    color: #ffffff;
     margin-left: 10px;
     font-weight: bold;
     font-size: 30px;
     width: 75%;
     display: flex;
-    font-family: georgia;
+    font-family: Lucida Sans Unicode;
 }
 .align-items {
     display: flex;
@@ -202,7 +203,7 @@ a {
     font-size: 30px;
     background-image: url(../img/blue.jpg);
     border: 5px solid #eb7d3b;
-    font-family: georgia;
+    font-family: Lucida Sans Unicode;
 }
 .decoration_project {
     margin: 10px;
